@@ -3,4 +3,5 @@ Version: 0.11.1
 Architecture: amd64
 Description: A wayland tiling WM
 Maintainer: vaxry
+Homepage: https://hyprland.org/
 Depends: seatd
