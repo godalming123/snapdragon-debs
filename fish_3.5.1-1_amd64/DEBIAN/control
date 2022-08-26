@@ -1,0 +1,16 @@
+Package: fish
+Version: 3.5.1-1
+Architecture: amd64
+Maintainer: ridiculous_fish <corydoras@ridiculousfish.com>
+Installed-Size: 17496
+Depends: libc6 (>= 2.30), libpcre2-32-0 (>= 10.22), libstdc++6 (>= 5.2), libtinfo6 (>= 6), passwd (>= 4.0.3-10), gettext-base, man-db, python3 (>= 3.5)
+Recommends: xsel (>= 1.2.0)
+Suggests: xdg-utils
+Conflicts: fish-common
+Section: shells
+Priority: optional
+Homepage: https://fishshell.com/
+Description: friendly interactive shell
+ Fish is a command-line shell for modern systems, focusing on user-friendliness,
+ sensibility and discoverability in interactive use. The syntax is simple, but
+ not POSIX compliant.

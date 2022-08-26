@@ -1,0 +1,9 @@
+be96c2310ee28b312bdafd30c4eaea72  lib/systemd/system/seatd.service
+c1811b9c44ef34b375c6535c70b706b3  usr/bin/seatd-launch
+9959de902b0b863ea0b82cfa4342df23  usr/sbin/seatd
+a1a9f087d0e6cec08e452ba91485ecb8  usr/share/doc/seatd/README.md
+9cddd232eab1971d7b6a5174df0f7620  usr/share/doc/seatd/TODO.Debian
+3d1c990b47e496d8255e795f8e4d356f  usr/share/doc/seatd/changelog.Debian.gz
+f17971a10f8aa959dd1689d76e879a47  usr/share/doc/seatd/copyright
+ae208253e8b1e6a3a8572fcd496b873f  usr/share/man/man1/seatd-launch.1.gz
+1a4d32cf48d07c1b36a9250ee06d0a1a  usr/share/man/man8/seatd.8.gz

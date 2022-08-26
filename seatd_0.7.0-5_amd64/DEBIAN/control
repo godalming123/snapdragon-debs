@@ -1,0 +1,14 @@
+Package: seatd
+Version: 0.7.0-5
+Architecture: amd64
+Maintainer: Mark Hindley <leepen@debian.org>
+Installed-Size: 105
+Pre-Depends: debconf, init-system-helpers (>= 1.54~)
+Depends: lsb-base (>= 3.1), libc6 (>= 2.33)
+Recommends: libseat1
+Section: admin
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://git.sr.ht/~kennylevinsen/seatd
+Description: minimal user, seat and session management daemon
+ Lightweight standalone implementation.
