@@ -6,7 +6,7 @@ cd $(dirname "$0")
 
 # = Create debs for each of the folders =
 
-for directory in */ ; do
+for directory in */*/ ; do
     [ -L "${directory%/}" ] && continue
     dpkg-deb --build --root-owner-group "$directory"
 done
@@ -15,7 +15,7 @@ done
 
 mkdir debs
 
-for debFile in *.deb ; do
+for debFile in */*.deb ; do
     [ -L "${debFile%/}" ] && continue
     mv "$debFile" ./debs
 done
