@@ -1,3 +1,3 @@
 # Todo
-
-Add more packages
+ - Add more packages
+ - Update fish to 3.6.1
