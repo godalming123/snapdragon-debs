@@ -1,3 +1,3 @@
 # Todo
 
-## hyprland > 0.12.1
+Add more packages
