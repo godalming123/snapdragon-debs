@@ -1,5 +1,5 @@
 Package: hyprland
-Version: 0.11.1
+Version: 0.25.0
 Architecture: amd64
 Description: A wayland tiling WM
 Maintainer: vaxry
